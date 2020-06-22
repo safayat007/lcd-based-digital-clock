@@ -9,7 +9,7 @@ The DS1307 RTC is a low cost, low power real time clock IC that can maintain ful
 * Resistors and
 * Jumper Wires
 # Schematics : 
-![Schematics](LCD digital clock.jpg)
+![Schematics](LCD_digital_clock.jpg)
 # Code : 
 [Code Link](LCD_Digital_clock.ino)
 # Application : 
